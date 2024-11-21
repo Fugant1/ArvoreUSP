@@ -1,5 +1,6 @@
 # ArvoreUSP
 Trabalho de Estrutura de Dados 1.
+
 Especificações:
 No geral, um aluno pode realizar as seguintes operações no sistema:
 1) criar um cadastro no sistema, informando os dados necessários;
