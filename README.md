@@ -2,6 +2,18 @@
 Trabalho de Estrutura de Dados 1.
 
 Especificações:
+Desenvolva um sistema de cadastro de alunos de uma turma de graduação e suas preferências
+pessoais sobre filmes, de tal forma que o sistema auxilie um aluno a lidar com questões
+relacionadas.
+Mais detalhadamente, o sistema deve coletar os dados básicos dos alunos, como nome e
+número USP, além de perguntar e armazenar os nomes de seus filmes prediletos (em ordem
+alfabética, sendo que cada aluno pode indicar quantos filmes quiser – pelo menos 1 filme deve
+ser indicado), sobre os quais algumas tarefas serão executadas. Os alunos e seus dados devem
+ser armazenados em uma árvore binária de busca (sendo que o número USP deve ser a chave);
+deve haver uma lista ordenada de filmes relacionada a cada aluno. Não há limite prévio para o
+número de alunos ou de filmes cadastrados no sistema. A figura abaixo mostra um exemplo
+hipotético da estrutura de dados resultante.
+
 No geral, um aluno pode realizar as seguintes operações no sistema:
 1) criar um cadastro no sistema, informando os dados necessários;
 2) listar todos os alunos cadastrados no sistema (atenção: você deverá utilizar algum dos
